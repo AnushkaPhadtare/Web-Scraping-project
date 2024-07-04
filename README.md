@@ -4,6 +4,6 @@ I have created a main.py file
 In order to run the code, we just need to run the main.py file.
 There are three more python files associated with main.py, these are the files in which I have scraped the data 
 about the upcoming B2B events.
-Each file generates its own excel file(structured format).
+Each file generates its own excel file (structured format).
 Libraries used: BeautifulSoup, requests, pandas, re
 The main.py file is responsible for running all the three python files and creating the corresponding excel files.
